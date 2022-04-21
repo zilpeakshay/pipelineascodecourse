@@ -2,7 +2,7 @@
 basic node
 ----------------
 node{
-    echo 'this is scripted pipeline'
+    echo 'this is scripted pipeline..Modified by Akshay'
 }
 
 
